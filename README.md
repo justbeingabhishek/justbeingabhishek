@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justbeingabhishek
-- 👀 I’m interested in business
+- 👀 I’m interested in Startups
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
